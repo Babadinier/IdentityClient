@@ -4,7 +4,7 @@ API protected with IdentityServer (Bearer)
 
 # How to use it ? 
 
-Clone IdentityServer and launch it. <br/>
+Clone project IdentityServer and launch it. <br/>
 Send a request POST to IdentityServer with parameters: <br/>
   - url: https://localhost:5001/connect/token
   - headers: Content-Type: application/x-www-form-urlencoded
